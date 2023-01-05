@@ -1,11 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hamdan Azani
+May the SUN shine upon us all! ![](https://github.com/Zaniiiii/sungif.gif/blob/main/5TRrMA4yc.gif)
 ====================================================================================================================================
-
+<img align = "right" src = "https://64.media.tumblr.com/tumblr_lytefhNuCc1qm6oc3o1_500.gifv" width="300" height="200" />
 Your everyday normal coder!!
 
 * 🌍  I'm based in Bandung
-* ✉️  You can contact me at [hamdanpesat@gmail.com](mailto:hamdanpesat@gmail.com)
-* 🧠  I'm learning Python, numpy, pandas, <\br>c++ and                                                                                                                       (and may god give me strength to do) more
+* ✉️  You can contact me at
+* 🧠  I'm learning Python, numpy, pandas, c++ and (may god give me strength to do) more
+ 
+ 
 
 ### Skills
 
@@ -19,7 +21,7 @@ Your everyday normal coder!!
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/Zaniiiii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hamdan-azani-170b86197/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Zaniiiii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hamdan-azani-170b86197/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <p align = "center">
  <a href="http://www.github.com/Zaniiiii"><img src="https://github-readme-stats.vercel.app/api?username=Zaniiiii&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Zaniiiii's GitHub stats" /></a> 
