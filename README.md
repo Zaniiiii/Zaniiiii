@@ -5,7 +5,7 @@ Your everyday normal coder!!
 
 * 🌍  I'm based in Bandung
 * ✉️  You can contact me at [hamdanpesat@gmail.com](mailto:hamdanpesat@gmail.com)
-* 🧠  I'm learning Python, numpy, pandas, c++ and (and may god give me strength to do) more
+* 🧠  I'm learning Python, numpy, pandas, \nc++ and (and may god give me strength to do) more
 
 ### Skills
 
