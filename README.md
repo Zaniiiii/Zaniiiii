@@ -1,15 +1,18 @@
 May the SUN shine upon us all! <img src = "https://github.com/Zaniiiii/sungif.gif/blob/main/5TRrMA4yc.gif" width="70" height="70" />
 ====================================================================================================================================
 <img align = "right" src = "https://64.media.tumblr.com/tumblr_lytefhNuCc1qm6oc3o1_500.gifv" width="300" height="200" />
-##Your everyday normal coder!!
 
+**Hamdan** at your services
+
+* 💻  Your everyday normal coder
 * 🌍  I'm based in Bandung
 * ✉️  You can contact me at
 * 🧠  I'm learning Python, numpy, pandas, c++ and (may god give me strength to do) more
  
  
 
-### Skills
+Skill
+====================================================================================================================================
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -19,7 +22,8 @@ May the SUN shine upon us all! <img src = "https://github.com/Zaniiiii/sungif.gi
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials
+Socials
+====================================================================================================================================
 
 <p align="left"> <a href="https://www.github.com/Zaniiiii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hamdan-azani-170b86197/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
