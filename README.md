@@ -1,4 +1,4 @@
-May the SUN shine upon us all! ![](https://github.com/Zaniiiii/sungif.gif/blob/main/5TRrMA4yc.gif)
+May the SUN shine upon us all! <img src = "https://github.com/Zaniiiii/sungif.gif/blob/main/5TRrMA4yc.gif" width="70" height="70" />
 ====================================================================================================================================
 <img align = "right" src = "https://64.media.tumblr.com/tumblr_lytefhNuCc1qm6oc3o1_500.gifv" width="300" height="200" />
 Your everyday normal coder!!
